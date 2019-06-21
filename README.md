@@ -1,1 +1,4 @@
 # gitstudy
+
+
+git add
