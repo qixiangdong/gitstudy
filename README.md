@@ -11,3 +11,7 @@ new
 
 
 git pull
+
+
+git rebase
+
